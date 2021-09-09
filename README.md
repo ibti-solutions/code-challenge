@@ -15,7 +15,7 @@ the idea of the App is to create a Pokémon team builder, where you must choose 
  - Api comsuming and iteration with its data into the UI.
 
 ### 🔗 Useful Links 
- - [Figma](https://pt-br.reactjs.org) - all the UX specs are here
+ - [Figma](https://www.figma.com/file/qjXWhqgrjp7BdiIiOLQu1K/Pok%C3%A9mon-Team-Builder?node-id=0%3A1) - all the UX specs are here
  - [PokéAPI](https://pokeapi.co/docs/v2#pokemon) - Public API for the data
  - [CSS Filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
 
