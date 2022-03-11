@@ -33,4 +33,4 @@ non-essential features that will differentiate you
 
 ### 🤔 Need Help?
 you can get in touch to clarify doubts
-- Email - viviakemik@ibti.tech
+- Email - igor.brandao@ibti.tech
